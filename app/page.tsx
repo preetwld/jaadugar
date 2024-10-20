@@ -11,7 +11,7 @@ export default function Homepage() {
       <nav className="bg-[#C4D7FF] py-4 shadow-md">
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <div className="text-2xl font-bold text-[#4A5A8F]">ComfortTech</div>
+            <div className="text-2xl font-bold text-[#4A5A8F]">GitsChacha</div>
           </div>
           <div className="flex items-center space-x-6">
             <Link href="/contribute" className="text-[#4A5A8F] hover:text-[#87A2FF] transition-colors">Contribute</Link>
@@ -102,8 +102,8 @@ export default function Homepage() {
           <div className="flex flex-wrap justify-between items-center">
             <div className="w-full md:w-1/3 mb-4 md:mb-0">
               <h3 className="text-lg font-semibold mb-2">Contact Us</h3>
-              <p className="text-sm">Email: info@comforttech.com</p>
-              <p className="text-sm">Support: support@comforttech.com</p>
+              <p className="text-sm">Email: info@gitchacha.com</p>
+              <p className="text-sm">Support: support@gitchacha.com</p>
             </div>
             <div className="w-full md:w-1/3 mb-4 md:mb-0 flex justify-center">
               <div className="flex space-x-4">
